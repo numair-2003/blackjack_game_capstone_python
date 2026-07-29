@@ -19,7 +19,7 @@ The entire program logic is also visually documented in the included flowchart.
 | Resource                  | Link                                                                 | Description                                      |
 |---------------------------|----------------------------------------------------------------------|--------------------------------------------------|
 | **GitHub Repository**     | https://github.com/numair-2003/blackjack_game_capstone_python        | Full source code, README, and project files      |
-| **Replit**                | https://replit.com/@numair-2003/blackjack_game_capstone_python       | Run the Blackjack game instantly in the browser  |
+| **Replit**                | https://replit.com/@numair1919/blackjackgamecapstonepython           | Run the Blackjack game instantly in the browser  |
 | **ASCII Art Source**      | https://ascii.co.uk/art                                              | Website where the Blackjack logo was selected    |
 | **Flowchart (draw.io)**   | https://app.diagrams.net/#G1eL-1uHVe-hDPR7NPJAafO9n2geGRxSvu#%7B%22pageId%22%3A%22qhqUl6ha3pGELj7gXrGA%22%7D | Interactive version of the program flowchart     |
 | **Blackjack Rules**       | https://listmoz.com/view/6h34DJpvJBFVRlZfJvxF                         | Detailed reference for Blackjack rules           |
@@ -122,7 +122,7 @@ You went over. You lose 😭
 The stylish Blackjack logo was hand-picked from the excellent collection at **[ASCII Art](https://ascii.co.uk/art)** and placed inside `art.py` as a raw string.
 
 ### Program Flowchart
-![Program Flowchart](blackjack_flowchart.drawio.png)
+![Program Flowchart](Blackjack_Game_Flowchart.jpg)
 
 [🔗 View the interactive flowchart on draw.io](https://app.diagrams.net/#G1eL-1uHVe-hDPR7NPJAafO9n2geGRxSvu#%7B%22pageId%22%3A%22qhqUl6ha3pGELj7gXrGA%22%7D)
 
@@ -132,7 +132,7 @@ The stylish Blackjack logo was hand-picked from the excellent collection at **[A
 blackjack_game_capstone_python/
 ├── art.py                              # ASCII Blackjack logo (raw string)
 ├── main.py                             # Main game logic (recursive version)
-├── blackjack_flowchart.drawio.png      # Program flowchart image
+├── Blackjack_Game_Flowchart.jpg        # Program flowchart image
 ├── README.md
 └── .git/                               # After running git init
 ```
